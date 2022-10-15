@@ -30,9 +30,7 @@ It will have the screenshots after the test case will fail.
 ### package: Page Events
 It includes the methods which are required by test to perform actions. 
 
-### package: Page Objects
-It has web elements corresponding to the specific page which is used by corressponding logic classes.
- 
+
 ### package: Utils
  It has the methods to fetch the elements and to capture the screenshots on failure.
 
