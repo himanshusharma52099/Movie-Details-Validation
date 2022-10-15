@@ -45,6 +45,6 @@ It contains information about the project and configuration details used by Mave
 # Setting up the project
 Install the maven and clone the build then:
 
-$ cd TestVagrantAutomation
+$ cd MovieDetailsValidation
 
 $ mvn clean install
